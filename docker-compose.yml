@@ -44,12 +44,5 @@ services:
       - "80:80"
 
 volumes:
-<<<<<<< HEAD
   vprodbdata: {}
   vproappdata: {}
-=======
-   vprodbdata:{}
-   vproappdata:{}  
-          
- 
->>>>>>> b8cfe32 (Your commit message here)
