@@ -1,6 +1,6 @@
 FROM mysql:8.0.33
-LABEL"project"="Vprofile"
-LABLE"Author"="durga"
+LABEL project="Vprofile"
+LABEL Author="durga"
 
 ENV MYSQL_ROOT_PASSWORD="vprodbpass"
 ENV MYSQL_DATABASE="accounts"
